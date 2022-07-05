@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aaaaa-pi
+- 👋 Hi, I’m @Eureka
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on ...
